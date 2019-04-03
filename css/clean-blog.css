@@ -456,4 +456,7 @@ footer p {
         margin-top: 45px;
         text-align: center!important;
     }
+    .navbar-brand.btn.btn-primary span {
+        display: block;
+    }
 }

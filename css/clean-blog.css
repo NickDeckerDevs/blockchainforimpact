@@ -442,3 +442,18 @@ footer p {
     margin: 0;
     padding: 0;
 }
+@media only screen and (max-width: 400px) {
+    #mainNav {
+        display: none;
+    }
+    header.masthead .site-heading h1 {
+        font-size: 29px;
+    }
+    h2 {
+        font-size: 1.7rem;
+    }
+    .details {
+        margin-top: 45px;
+        text-align: center!important;
+    }
+}
